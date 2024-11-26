@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291107988097",
+    "project_id": "udb-foro2-dsm",
+    "storage_bucket": "udb-foro2-dsm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291107988097:android:9d33b0f73ebd8c20bce380",
+        "android_client_info": {
+          "package_name": "com.udbvirtual.foro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291107988097-8pnrrl97c3davtd5b1c51aoavkep5ch6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udbvirtual.foro2",
+            "certificate_hash": "7bd2d6e33963b907fbf86ea7e5c461ea3d5e7231"
+          }
+        },
+        {
+          "client_id": "291107988097-upj3h8q1347mqn8u86na89fm153s1djj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8BhH-7W_zzZxf4QpdyvHgUmn-Ok2Jo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291107988097-upj3h8q1347mqn8u86na89fm153s1djj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
